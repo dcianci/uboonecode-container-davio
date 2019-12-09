@@ -1,0 +1,3 @@
+just run:
+
+sudo singularity build [name of containter].img Singularity
